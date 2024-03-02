@@ -41,6 +41,7 @@ MorteSense is an incredible system addressed the dependency on a smartphone appl
       </ul>
     </li>
     <li><a href="#community">Community</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
   </ol>
@@ -70,6 +71,21 @@ MorteSense is an incredible system addressed the dependency on a smartphone appl
 ## Community
 
 - [Discussions](https://github.com/orgs/MorteSense/discussions) on all sorts of categories
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Acknowledgments
+
+Here are some resources we made use of while developing, for those who wish to build on our work:
+
+- [Flask Documentation](https://flask.palletsprojects.com/)
+- [ReactJS Documentation](https://reactjs.org/)
+- [React Router Documentation](https://reactrouter.com/)
+- [Raspberry Pi Pico W Documentation](https://www.raspberrypi.org/documentation/pico/)
+- [Raspberry Pi Pico W SDK](https://github.com/raspberrypi/pico-sdk/)
+- [TailwindCSS Documentation](https://tailwindcss.com/docs)
+- [Redis Documentation](https://redis.io/documentation)
+- [Axios Documentation](https://axios-http.com/docs/intro)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
