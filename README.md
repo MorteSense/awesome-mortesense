@@ -49,7 +49,7 @@ MorteSense is an incredible system addressed the dependency on a smartphone appl
 
 ## Essentials
 - [MortForge](https://github.com/MorteSense/mortforge) - Backend system  
-- [MortQuasar](https://github.com/MorteSense/mortquasar) - Frontend application 
+- [MortEdge](https://github.com/MorteSense/mortedge) - Frontend application 
 - [MortCraft](https://github.com/MorteSense/mortcraft) - Hardware layer 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
