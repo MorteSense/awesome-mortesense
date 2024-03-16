@@ -48,10 +48,9 @@ MorteSense is an incredible system addressed the dependency on a smartphone appl
 </details>
 
 ## Essentials
-
-- [MortForge](https://github.com/MorteSense/mortforge) - Backend ...
-- [MortQuasar](https://github.com/MorteSense/mortquasar) - Frontend ...
-- [MortCraft](https://github.com/MorteSense/mortcraft) - Hardware ...
+- [MortForge](https://github.com/MorteSense/mortforge) - Backend system  
+- [MortQuasar](https://github.com/MorteSense/mortquasar) - Frontend application 
+- [MortCraft](https://github.com/MorteSense/mortcraft) - Hardware layer 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -61,7 +60,7 @@ MorteSense is an incredible system addressed the dependency on a smartphone appl
 - [Laravel](https://github.com/BuildFrom/Laravel)
 - [MiniApp](https://github.com/BuildFrom/MiniApp)
 - [NextJS](https://github.com/BuildFrom/NextJS)
-- More to come...
+- More to come
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,7 +94,7 @@ Here are some resources we made use of while developing, for those who wish to b
 
 ## Contributing
 
-This repository is built for the community. Submit packages, articles, blogs, videos and more that utilizes MorteSense to share with the developer community. Please refer to [CONTRIBUTING.md](/CONTRIBUTING.md) for details.
+This repository is built for the community. Submit packages, articles, blogs, videos and more that utilizes MorteSense to share with the developer community for a better sustainable future. Please refer to [CONTRIBUTING.md](/CONTRIBUTING.md) for details.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
