@@ -72,6 +72,10 @@ MorteSense is an incredible system addressed the dependency on a smartphone appl
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Explore
+
+The team at MorteSense is exploring the adoption of an AsyncAPI mindset for defining APIs. We believe that AsyncAPI provides a standardized and effective approach for building scalable and event-driven systems. By leveraging AsyncAPI's channels, messages, and publish-subscribe patterns, MorteSense can extend the benefits of event-driven architectures to services.
+
 ## Community
 
 - [Discussions](https://github.com/orgs/MorteSense/discussions) on all sorts of categories
