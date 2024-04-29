@@ -61,6 +61,7 @@ MorteSense is an incredible system addressed the dependency on a smartphone appl
 - [MiniApp](https://github.com/BuildFrom/MiniApp)
 - [NextJS](https://github.com/BuildFrom/NextJS)
 - [Bun](https://github.com/BuildFrom/Bun)
+- [Plotly Dash](https://github.com/BuildFrom/PlotlyDash)
 - More to come
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
